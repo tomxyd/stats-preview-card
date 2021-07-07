@@ -1,1 +1,11 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body {
+  font-family: Inter;
+  font-weight: 400;
+  background-color: #090b1a;
+}
+
+.card {
+  background: #1b1938;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */

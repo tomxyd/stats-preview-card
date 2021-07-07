@@ -1,0 +1,17 @@
+$base-color: hsl(233, 47%, 7%);
+$card-color:  hsl(244, 38%, 16%);
+$img-color:  hsl(277, 64%, 61%);
+$font-color: hsl(0, 0%, 100%);
+$main-p:  hsla(0, 0%, 100%, 0.75);
+$stat-head:  hsla(0, 0%, 100%, 0.6);
+$base-font: Inter;
+
+body{
+    font-family: $base-font;
+    font-weight: 400;
+    background-color: $base-color;
+}
+.card{
+    background: $card-color;
+    color: $font-color;
+}
